@@ -29,8 +29,11 @@ Untuk menyelesaikan proyek post test ini, Kelompok 5 membagi tugas secara adil d
 ├── README.md
 ├── kelompok5_housing.ipynb
 ├── requirements.txt
+├── caption-linkedin.txt
 ├── data_csv/
 │   └── Kelas C_Housing.csv
+├── infografis/
+│   └── 
 └── hasil-grafik/
     ├── Grafik-Kategori-A.jpeg
     ├── Grafik-Kategori-B.jpeg
