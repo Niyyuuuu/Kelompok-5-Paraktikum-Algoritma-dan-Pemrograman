@@ -29,11 +29,11 @@ Untuk menyelesaikan proyek post test ini, Kelompok 5 membagi tugas secara adil d
 ├── README.md
 ├── kelompok5_housing.ipynb
 ├── requirements.txt
-├── data/
+├── data_csv/
 │   └── Kelas C_Housing.csv
-└── hasil_kelompok_5/
-    ├── 01_kategori_a_furnishing_price.png
-    ├── 02_kategori_b_mainroad_ac_filter.png
-    ├── 03_kategori_c_housing_correlation.png
-    ├── 04_kategori_d_price_distribution.png
-    └── 05_gabungan_2x2.png
+└── hasil-grafik/
+    ├── Grafik-Kategori-A.png
+    ├── Grafik-Kategori-B.png
+    ├── Grafik-Kategori-C.png
+    ├── Grafik-Kategori-D.png
+    └── Grafik-Gabungan.png
