@@ -33,7 +33,7 @@ Untuk menyelesaikan proyek post test ini, Kelompok 5 membagi tugas secara adil d
 ├── data_csv/
 │   └── Kelas C_Housing.csv
 ├── infografis/
-│   └── 
+│   └── Informasi-Kelompok-5.png
 └── hasil-grafik/
     ├── Grafik-Kategori-A.jpeg
     ├── Grafik-Kategori-B.jpeg
