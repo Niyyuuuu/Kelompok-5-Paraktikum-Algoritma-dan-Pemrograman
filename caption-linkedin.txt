@@ -2,9 +2,9 @@
 
 It was great to be part of Group 5 for the Algorithms and Programming Lab in 2026! Together, we have completed 8 modules covering the Python and C++ programming languages. Starting with “Data Types and Variables in Python” and ending with “Functions in C++.” 
 
-For our final assignment, we created an infographic about the key factors influencing housing prices, analyzed from a comprehensive dataset of 545 property records. Our visualization highlights how crucial amenities—such as direct main road access, air conditioning, and complete furnishing—significantly drive up a property's market value. By breaking down these elements, we demonstrate how interior readiness and premium locations create a substantial price premium in the real estate market.
+For our final assignment, we created an infographic about the characteristics and determinants of property valuation using the Housing dataset. The infographic visually interprets four main analytical categories: the impact of furnishing status on pricing, the premium value of homes with dual features (main road access and AC), the overall statistical correlation between structural attributes, and the frequency distribution of housing prices.
 
-Furthermore, the infographic delves into the statistical correlations and distributions of the housing data. It illustrates that while features like the number of stories and parking spaces matter, a home's total land area and the number of bathrooms have the strongest positive correlation with its price. We also visualized the overall price distribution, revealing a right-skewed trend where the majority of properties are concentrated in the affordable-to-mid price range, providing a clear, data-driven perspective on real estate dynamics.
+Through data-driven charts, our group highlights that property size (area) and essential modern facilities are the primary catalysts for higher real estate prices. This visual guide simplifies complex statistical trends into actionable insights, showing that fully furnished homes in strategic locations consistently command the highest market value.
 
 You can check out this project on our GitHub Link down below:
 https://github.com/Niyyuuuu/Kelompok-5-Paraktikum-Algoritma-dan-Pemrograman
