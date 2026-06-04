@@ -32,8 +32,8 @@ Untuk menyelesaikan proyek post test ini, Kelompok 5 membagi tugas secara adil d
 ├── data_csv/
 │   └── Kelas C_Housing.csv
 └── hasil-grafik/
-    ├── Grafik-Kategori-A.png
-    ├── Grafik-Kategori-B.png
-    ├── Grafik-Kategori-C.png
-    ├── Grafik-Kategori-D.png
+    ├── Grafik-Kategori-A.jpeg
+    ├── Grafik-Kategori-B.jpeg
+    ├── Grafik-Kategori-C.jpeg
+    ├── Grafik-Kategori-D.jpeg
     └── Grafik-Gabungan.png
